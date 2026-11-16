@@ -1,0 +1,13 @@
+.DS_Store
+.env*
+.vscode/
+.idea/
+.claude/
+.codex/
+.agents/
+.build/
+dist/
+node_modules/
+*.dmg
+*.zip
+*.xcarchive/
